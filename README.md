@@ -652,12 +652,6 @@ The predictive models are trained on historical data and should only be used to 
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
 ## Citation
 
 If you use this project in academic or research work, please cite as:
@@ -667,7 +661,7 @@ If you use this project in academic or research work, please cite as:
   title={OncoLearn: Intelligent Breast Cancer Education & Prediction Platform},
   author={OncoLearn Contributors},
   year={2024},
-  url={https://github.com/yourusername/oncolearn}
+  url={https://github.com/anshbhar/oncolearn}
 }
 ```
 
@@ -677,7 +671,7 @@ If you use this project in academic or research work, please cite as:
 
 For questions, suggestions, or issues:
 
-- 📧 Email: support@oncolearn.edu
+- 📧 Email: anshb120207@gmail.com
 - 🐛 Bug Reports: Create an issue on GitHub
 - 💡 Feature Requests: Open a discussion
 
@@ -696,3 +690,6 @@ For questions, suggestions, or issues:
 **Last Updated**: April 2026  
 **Status**: Active Development
 
+## 🚀 Live App
+Explore the live platform here: ## 🚀 Live App
+Explore the live platform here: (https://web-production-0a1af.up.railway.app/)
